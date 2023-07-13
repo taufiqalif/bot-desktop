@@ -9,3 +9,14 @@
 
 1.  Install library `requests` untuk mengirim permintaan HTTP: `pip install requests`
 2.  Install library `PyQt5` untuk membuat antarmuka pengguna (opsional): `pip install PyQt5`
+
+### API KEY:
+
+https://www.openai.com/
+
+Gantilah 'YOUR_API_KEY' dengan kunci API yang diperoleh dari OpenAI.
+
+### Uji aplikasi:
+
+Untuk menjalankan bot desktop melalui terminal, jalankan perintah `python bot.py.`
+Jika menggunakan antarmuka pengguna PyQt, jalankan perintah `python ui.py.`
